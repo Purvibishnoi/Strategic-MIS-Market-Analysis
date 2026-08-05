@@ -112,7 +112,7 @@ This project demonstrates the practical value of analytics in transforming raw r
 
 # Project Deliverables
 
-- Interactive MIS Job Market Dashboard
+- MIS Job Market Dashboard
 - Comprehensive Business Intelligence Report
 - Executive Presentation
 - Market Trend Analysis
