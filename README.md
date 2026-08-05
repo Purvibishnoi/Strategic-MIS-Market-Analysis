@@ -1,8 +1,6 @@
 # 📊 MIS Job Market Insights
 ### A Data-Driven Placement Strategy for the Management Information Systems (MIS) Job Market
 
-> **Internship Project | Analytics Career Connect (ACC)**
-
 ---
 
 ## Executive Summary
